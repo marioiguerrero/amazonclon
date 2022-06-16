@@ -1,5 +1,4 @@
-amazon ECommerce Website
-![amazon](/template/images/amazon.jpg)
+amazonclone ECommerce Website
 
 Demo Website
 -  Heroku :(https://react-amazon.herokuapp.com)

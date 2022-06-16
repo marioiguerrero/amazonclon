@@ -1,7 +1,7 @@
 amazonclone ECommerce Website
 
 Demo Website
--  Heroku :(https://react-amazon.herokuapp.com)
+-  Heroku :https://amazonclon-app.herokuapp.com/
 
 Technologies
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
@@ -38,9 +38,9 @@ $ npm install
 $ npm start
 
 5. Seed Users and Products
-- Run this on chrome: http://localhost:5000/api/users/seed
+- Run this on chrome: http://localhost:5000/api/users/
 - It returns admin email and password
-- Run this on chrome: http://localhost:5000/api/products/seed
+- Run this on chrome: http://localhost:5000/api/products/
 - It creates 6 sample products
 
 6. Admin Login

@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/marioiguerrero/amazonclon/issues"
   },
-  "homepage": "https://github.com/marioiguerrero/amazonclon/amazon#readme",
+  "homepage": "https://github.com/marioiguerrero/amazonclon/blob/master/README.md",
   "devDependencies": {
     "eslint": "^7.9.0",
     "eslint-plugin-react": "^7.21.2",
